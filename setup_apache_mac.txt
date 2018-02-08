@@ -1,0 +1,4 @@
+sudo apachectl start
+
+
+see http://coolestguidesontheplanet.com/get-apache-mysql-php-and-phpmyadmin-working-on-osx-10-11-el-capitan/
